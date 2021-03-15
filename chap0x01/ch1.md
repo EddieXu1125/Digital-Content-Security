@@ -172,7 +172,7 @@ DCT可以将图像以频域的形式进行表达，经过DCT变换，图像左�
 
 
 参考资料:
-[影像算法解析——JPEG 压缩算法](https://zhuanlan.zhihu.com/p/40356456)
-[JPEG 图片压缩原理](https://www.jianshu.com/p/0d0361fca2ab)
-[JPEG压缩原理](https://blog.csdn.net/abcjennifer/article/details/8074492)
-[JPEG图像压缩原理解析](https://wxjwjj.github.io/2018/05/14/jpeg/)
+* [影像算法解析——JPEG 压缩算法](https://zhuanlan.zhihu.com/p/40356456)
+* [JPEG 图片压缩原理](https://www.jianshu.com/p/0d0361fca2ab)
+* [JPEG压缩原理](https://blog.csdn.net/abcjennifer/article/details/8074492)
+* [JPEG图像压缩原理解析](https://wxjwjj.github.io/2018/05/14/jpeg/)
